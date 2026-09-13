@@ -10,7 +10,7 @@
 > **Disclaimer 2** - Для этого проекта от вас потребуются навыки пайки/распайки и пользования мультиметром.
 ## Начнем с закупки - вот что вам понадобится:
 0. iMac 27" Retina 5k. Конкретно у меня 2017г.
-1. [Stonetaskin r1820. Самый большой набор (Package C), fanless](https://www.stonetaskin.com/products/stonetaskin-latest-5k-lcd-driver-board-r1820-v1-0-for-imac-27-lm270qq1-lm270qq2-hdmi-2-1-dp-1-4-usb-3-0-upgrade-diy-5k-monitor?variant=47057182392474)
+1. [Stonetaskin r1820. Самый большой набор (Package C), fanless](https://www.stonetaskin.com/products/stonetaskin-latest-5k-lcd-driver-board-r1820-v1-0-for-imac-27-lm270qq1-lm270qq2-hdmi-2-1-dp-1-4-usb-3-0-upgrade-diy-5k-monitor?variant=47057182392474) 
    **P.S** - Вроде как у всех imac дисплей с коннектором LM270QQ1. Но для достоверности самостоятельно убедитесь какой конкретно у вас. На дисплее с внутренней стороны черная наклеечка должна быть с номером.
    <img src="images/matrix_number.jpg" width="50%">
    **P.S.S** - Вроде как, с сайта можно заказать с доставкой в РФ. Иногда можно найти на AliExpress. Отдельно crossover можно докупить, но точно покупайте с комплектным блоком на 24v, иначе под свой придется перемоделивать крепление.
