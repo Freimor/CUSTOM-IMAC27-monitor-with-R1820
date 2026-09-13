@@ -66,6 +66,10 @@ Used for insulating exposed contacts, gluing things together, assembling parts, 
 
 ### 7. Reinforced tape, electrical tape, zip ties.
 
+### 8. 3D-printed parts
+
+Models are in the `3d` folder. Bambu Lab users can also print from [MakerWorld](https://makerworld.com/en/models/3303021-custom-imac-27-monitor-with-r1820).
+
 ## Tools you'll need:
 
 1. Soldering iron, hot air gun, and all the usual extras.
