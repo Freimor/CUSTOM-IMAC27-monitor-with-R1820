@@ -1,3 +1,4 @@
+[English](README.md) | **Русский**
 # Моя версия ребилда iMac 27" 5k в роль монитора.
 
 <img src="images/3.jpg" width="600">
